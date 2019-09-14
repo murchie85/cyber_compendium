@@ -3,8 +3,7 @@
 ![TITLE IMAGE](head.jpg)
 
 ### NAVIGATION
-<br />
-<br />
+<br />	
 <br />
 
 
@@ -315,6 +314,7 @@ With the **Cloud Identity and Access Management (Cloud IAM) Recommender**, you c
 
 The Google Compute Engine Rightsizing Recommender helps you choose the optimal virtual machine size for your workload. Our experience working with customers shows that they often initially provision machines that are too small or too large.
 
+# AI FOR OFFENCE
 
 ## SQL INJECTION TURBOCHARGING
 
@@ -340,7 +340,7 @@ Consider a network trained to detect running ports, vulnerabilities etc.
 [REF](https://www.researchgate.net/publication/327786263_Using_Deep_Learning_Model_for_Network_Scanning_Detection)
 
 
-## AI FOR DEFENCE
+# AI FOR DEFENCE
 
 **Machine Learning In Cyber Threat Detection**
 
