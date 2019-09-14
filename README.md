@@ -134,6 +134,9 @@ In a Zero Trust model, you cannot trust anything in or out of your network: crea
 | ------------- | ------------- |
 | Hack the Box   | [HTB](#Hack-The-Box)  |
 | ThreatConnect  | [ThreatConnect](#ThreatConnect)  |
+| Bloodhound  | [Bloodhound](#Bloodhound)  |
+| MISP  | [MISP](#MISP)  |
+| Cyber Chef  | [Cyber Chef](#Cyber-Chef)  |
 
 
 <br />
@@ -179,11 +182,35 @@ In a Zero Trust model, you cannot trust anything in or out of your network: crea
 <br />
 
 
-## 
+## Bloodhound
 
-![]()
+![Bloodhound](https://camo.githubusercontent.com/bcbb9550b8c6a48223efb5a83273cdcc162b3626/687474703a2f2f692e696d6775722e636f6d2f5365336175484e2e706e67)
 
-- Home Site [here]()
+- Wiki Site [here](https://github.com/BloodHoundAD/Bloodhound/wiki)
+
+
+  
+<br />
+<br />
+
+## MISP
+
+![MISP](https://securitymadein.lu/assets/media/logo-circl-MISP.png)
+
+- Home Site [here](https://www.misp-project.org/)
+
+
+  
+<br />
+<br />
+
+## Cyber Chef
+
+![CYBERCHEF](https://pbs.twimg.com/media/DUTU8GAW4AEhq7c.jpg)
+
+
+- CyberChef [here](https://github.com/gchq/CyberChef)
+- CyberSaucier [here](https://github.com/DBHeise/CyberSaucier)
 
 
   
