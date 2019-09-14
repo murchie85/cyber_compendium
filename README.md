@@ -1,6 +1,6 @@
 # CYBER SECURITY COMPENDIUM
 
-| Topic | Quick Jump |
+| Topic | Quick NAVIGATION |
 | ------------- | ------------- |
 | FRAMEWORKS   | [Frameworks](#FRAMEWORKS)  |
 | CYBER TOOLS  | [Cyber](#CYBER-TOOLS)  |
@@ -20,9 +20,7 @@
 | Open Web Application Security Project  | [OWASP](#Open-Web-Application-Security-Project-(OWASP))  |
 
 <br />
-<br />
-<br />
-<br />
+
 
 ## NIST FRAMEWORK 
 
@@ -195,6 +193,8 @@ Then we query S3 database using Athena so we can immediately display it in analy
 <br />
 <br />
 <br />
+
+
 ## GCP RECOMMENDATIONS
 
 Recommenders automatically analyze usage patterns to help determine if resources and policies within Google Cloud are optimally configured. Data usage information is not shared in the process.
