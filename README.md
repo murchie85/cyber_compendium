@@ -236,3 +236,38 @@ The ultimate attack profile.
 Consider a network trained to detect running ports, vulnerabilities etc. 
 
 [REF](https://www.researchgate.net/publication/327786263_Using_Deep_Learning_Model_for_Network_Scanning_Detection)
+
+
+## AI FOR DEFENCE
+
+**Machine Learning In Cyber Threat Detection**
+
+```
+LEARN ATTACK PROFILES
+```
+
+**AI, Password Protection and Authentication**
+
+```
+Biometrics are easily circumvented
+
+AI can enhanced FACE ID tampering
+```
+
+
+**AI-ML In Phishing Detection And Prevention Control**
+
+**Usage of AI-ML In Vulnerability Management**
+
+```
+Detect open ports
+Detect Unpatched servers, botched patches, patch clashes 
+Detect AD hijacking
+```
+
+**Behavioral Analytics with AI**
+
+```
+Profile malicious users based on activities that haven’t quite crossed the line.
+
+```
