@@ -22,11 +22,18 @@
 <br />
 <br />
 <br />
-
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 # FRAMEWORKS 
 
-### [NAVIGATION](#NAVIGATION) 
+### [TOP](#NAVIGATION) 
 
 | Topic | Quick Jump |
 | ------------- | ------------- |
@@ -84,7 +91,7 @@ The goal of **OWASP TOP 10** is to educate developers, architects, managers, org
 
 # CYBER TOOLS 
 
-### NAVIGATION
+### [TOP](#NAVIGATION) 
 
 | Topic | Quick Jump |
 | ------------- | ------------- |
@@ -106,7 +113,7 @@ The goal of **OWASP TOP 10** is to educate developers, architects, managers, org
   
 # KNOWLEDGE RESOURCES 
   
-### NAVIGATION
+### [TOP](#NAVIGATION) 
 
 | Topic | Quick Jump |
 | ------------- | ------------- |
@@ -143,7 +150,7 @@ The goal of **OWASP TOP 10** is to educate developers, architects, managers, org
   
 # NEXT-GEN INTELLIGENT INTELLIGENCE  
 
-### NAVIGATION
+### [TOP](#NAVIGATION) 
 
 | Topic | Quick Jump |
 | ------------- | ------------- |
