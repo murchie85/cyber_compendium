@@ -133,7 +133,7 @@ In a Zero Trust model, you cannot trust anything in or out of your network: crea
 | Topic | Quick Jump |
 | ------------- | ------------- |
 | Hack the Box   | [HTB](#Hack-The-Box)  |
-| ThreatConnect  | [HTB](#Hack-The-Box)  |
+| ThreatConnect  | [ThreatConnect](#ThreatConnect)  |
 
 
 <br />
