@@ -45,6 +45,7 @@
 | ------------- | ------------- |
 | NIST FRAMEWORK   | [NIST](#NIST-FRAMEWORK)  |
 | Open Web Application Security Project  | [OWASP](#Resource-Link)  |
+| Zero Trust Security  | [ZEROT](#Zero-Trust-Security)  |
 
 <br />
 
@@ -82,6 +83,9 @@ This innovation behind the strategy is broken down into few core pillars, **iden
 
 The Open Web Application Security Project (OWASP) is an online community that produces freely-available articles, methodologies, documentation, tools, and technologies in the field of web application security
 
+<br />
+<br />
+
 ## OWASP TOP 10
 
 ![TOP10](IMAGES/TOP10.png)
@@ -89,6 +93,28 @@ The Open Web Application Security Project (OWASP) is an online community that pr
 
 The goal of **OWASP TOP 10** is to educate developers, architects, managers, organizations, and designers about the consequences of the most common and most important web application security weakness. OWASP TOP 10 provides **basics techniques** to protect against these high-risk problems and give guidance what to do next
 
+
+<br />
+<br />
+
+
+## Zero Trust Security
+
+`"The perimeter is dead: Long live the micro perimeter."`
+
+It's time to abandon the caslte and mote analogy for security. 
+
+The Zero Trust model is primarily concerned around network security, the old way of doing things was that you focused on securing your network from external actors - however internal comunicaiton was relatively unrestricted *(the thinking being, that if you are inside the perimiter then you are a good actor)*. However, this means like the story of Troy, once the attackers made it passed the castle wall, they were free to cause unfettered dmage. 
+  
+  
+In a Zero Trust model, you cannot trust anything in or out of your network: creating a new type of data-centric perimeter around information and protecting it with strong encryption techniques tied to intelligent authentication is the best security approach. Blindly allowing users to access the data without checking their identity negates the entire security stack.
+
+**Implementations** 
+
+- [Zscaler](https://www.zscaler.com/mission-possible-zero-trust-security)
+- [Cisco](https://www.cisco.com/c/en/us/products/security/zero-trust.html)
+- [Akami](https://www.akamai.com/uk/en/solutions/security/zero-trust-security-model.jsp)
+- [Symantec](https://www.symantec.com/en/uk/solutions/zero-trust-ecosystem)
 
 <br />
 <br />
