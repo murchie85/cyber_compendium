@@ -1,11 +1,11 @@
 # CYBER SECURITY COMPENDIUM
 
-| Topic | Quick NAVIGATION |
+| QUICK NAVIGATION | TOPICS|
 | ------------- | ------------- |
-| FRAMEWORKS   | [Frameworks](#FRAMEWORKS)  |
-| CYBER TOOLS  | [Cyber](#CYBER-TOOLS)  |
-| KT RESOURCES  | [Knowledge Resources](#KNOWLEDGE-RESOURCES)  |
-| NEXT-GEN   | [INTELLIGENT INTELLIGENCE](#NEXT-GEN-INTELLIGENT-INTELLIGENCE)  |
+| CHAPTER 1   | [Frameworks](#FRAMEWORKS)  |
+| CHAPTER 2  | [Cyber Tools](#CYBER-TOOLS)  |
+| CHAPTER 3  | [Knowledge Resources](#KNOWLEDGE-RESOURCES)  |
+| CHAPTER 4   | [Next-Gen Cyber Intelligence](#NEXT-GEN-INTELLIGENT-INTELLIGENCE)  |
 
   
   
@@ -54,7 +54,7 @@ The Open Web Application Security Project (OWASP) is an online community that pr
 
 ![TOP10](IMAGES/TOP10.png)
   
-  
+
 The goal of **OWASP TOP 10** is to educate developers, architects, managers, organizations, and designers about the consequences of the most common and most important web application security weakness. OWASP TOP 10 provides **basics techniques** to protect against these high-risk problems and give guidance what to do next
 
 
