@@ -15,7 +15,42 @@
 | CHAPTER 4   | [Next-Gen Cyber Intelligence](#NEXT-GEN-INTELLIGENT-INTELLIGENCE)  |
 | CHAPTER 5   | [DEVSECOPS](#NEXT-GEN-INTELLIGENT-INTELLIGENCE)  |
 
-  
+<br />
+<br />
+<br />
+<br />
+### FULL CONTENTS
+<br />	
+<br />
+
+
+| SECTION | TOPICS|
+| ------------- | ------------- |
+| CHAPTER 1   | [Frameworks](#FRAMEWORKS)  |
+| NIST FRAMEWORK   | [NIST](#NIST-FRAMEWORK)  |
+| Open Web Application Security Project  | [OWASP](#Resource-Link)  |
+| Zero Trust Security  | [ZEROTRUST](#Zero-Trust-Security)  |
+| OSINT  | [OSINT](#Open-Source-Intelligence)  |
+| CHAPTER 2  | [Cyber Tools](#CYBER-TOOLS)  |
+| Hack the Box   | [HTB](#Hack-The-Box)  |
+| ThreatConnect  | [ThreatConnect](#ThreatConnect)  |
+| Bloodhound  | [Bloodhound](#Bloodhound)  |
+| MISP  | [MISP](#MISP)  |
+| Cyber Chef  | [Cyber Chef](#Cyber-Chef)  |
+| CHAPTER 3  | [Knowledge Resources](#KNOWLEDGE-RESOURCES)  |
+| Signature Wrapping  | [SIGNATURE WRAPPING ATTACK](#SIGNATURE-WRAPPING-ATTACK)  |
+| AWESOME PENTEST  | [AWESOME PENTEST](#AWESOME-PENTEST)  |
+| How to NMAP   | [MAPPING PORTS](#HOW-TO-NMAP)  |
+| CHAPTER 4   | [Next-Gen Cyber Intelligence](#NEXT-GEN-INTELLIGENT-INTELLIGENCE)  |
+| AI FOR OFFENCE | [DARKTRACE WHITEPAPER](#DARKTRACE-WHITEPAPER)  |
+|   | [NEURALNET INJECTION](#ML-INJECTION )  |
+|    | [ML N-MAP ](#ML-N-MAP  )  |
+|  | [SQL-INJECTION-TURBOCHARGING ](#SQL-INJECTION-TURBOCHARGING )  |
+| AI FOR DEFENCE | [AI FOR DEFENCE](#AI-FOR-DEFENCE)  |
+|  | [BEST PRACTICES](#BEST-PRACTICES)  |
+|   | [ROBUST AI FRAUD ARCHITECTURES](#ROBUST-AI-FRAUD-ARCHITECTURES)  |
+|  | [Dynamic GCP ](#GCP-RECOMMENDATIONS)  |
+| CHAPTER 5   | [DEVSECOPS](#NEXT-GEN-INTELLIGENT-INTELLIGENCE)  |
   
 
 <br />
