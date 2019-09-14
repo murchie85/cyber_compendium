@@ -312,6 +312,62 @@ In a Zero Trust model, you cannot trust anything in or out of your network: crea
 
 
 
+# AI FOR OFFENCE
+
+## DARKTRACE WHITEPAPER
+
+![DARKTRACE](https://www.darktrace.com/en/img/cards/552x309.jpg)
+
+### The Next Paradigm Shift 
+
+**AI-Driven Cyber-Attacks**
+
+[LINK](https://www.darktrace.com/en/resources/wp-ai-driven-cyber-attacks.pdf)
+
+
+This report exampines the present state of the threatlandscape and explore the role narrow artificial intelligence (AI) will play in cyber-offense.
+It presents three scenarios where advanced threats have achieved high levels of sophistication for specific, isolated characteristics. 
+
+1. Autonomous malware
+2. Intelligent evasion techniques
+3. Low-and-slow data exfiltration 
+
+
+Each threat covers a different phase of the attack lifecycle:
+
+- Lateral movement
+- Command & control traffic
+- Data exfiltration
+
+## SQL INJECTION TURBOCHARGING
+
+- OBTAIN LIST OF 1000+ SQL INJECTION METHODS
+- LABEL BASED ON TARGET OS, TARGET APPLICATION ETC
+- CLASSIFY (SUCCESS/FAILURE/NA)
+- PRODUCE MODEL THAT OFFERS THE BEST ATTACK VECTOR FOR A GIVEN TARGET
+
+
+## ML INJECTION 
+
+The ultimate attack profile. 
+
+1. Decimenate payload on target machine 
+2. Payload acts as intelligent trojan, using client side training or federated learning. 
+3. Probing and moving itself reactively, not based on static if/or statements, but actually adapting to anti-virus software.
+
+
+## ML N-MAP 
+
+Consider a network trained to detect running ports, vulnerabilities etc. 
+
+[REF](https://www.researchgate.net/publication/327786263_Using_Deep_Learning_Model_for_Network_Scanning_Detection)
+
+<br />
+<br />
+<br />
+<br />
+
+
 # AI FOR DEFENCE
 
 ## BEST PRACTICES 
@@ -443,58 +499,5 @@ The Google Compute Engine Rightsizing Recommender helps you choose the optimal v
 
 
 
-
-
-
-
-# AI FOR OFFENCE
-
-## DARKTRACE WHITEPAPER
-
-![DARKTRACE](https://www.darktrace.com/en/img/cards/552x309.jpg)
-
-### The Next Paradigm Shift 
-
-**AI-Driven Cyber-Attacks**
-
-[LINK](https://www.darktrace.com/en/resources/wp-ai-driven-cyber-attacks.pdf)
-
-
-This report exampines the present state of the threatlandscape and explore the role narrow artificial intelligence (AI) will play in cyber-offense.
-It presents three scenarios where advanced threats have achieved high levels of sophistication for specific, isolated characteristics. 
-
-1. Autonomous malware
-2. Intelligent evasion techniques
-3. Low-and-slow data exfiltration 
-
-
-Each threat covers a different phase of the attack lifecycle:
-
-- Lateral movement
-- Command & control traffic
-- Data exfiltration
-
-## SQL INJECTION TURBOCHARGING
-
-- OBTAIN LIST OF 1000+ SQL INJECTION METHODS
-- LABEL BASED ON TARGET OS, TARGET APPLICATION ETC
-- CLASSIFY (SUCCESS/FAILURE/NA)
-- PRODUCE MODEL THAT OFFERS THE BEST ATTACK VECTOR FOR A GIVEN TARGET
-
-
-## ML INJECTION 
-
-The ultimate attack profile. 
-
-1. Decimenate payload on target machine 
-2. Payload acts as intelligent trojan, using client side training or federated learning. 
-3. Probing and moving itself reactively, not based on static if/or statements, but actually adapting to anti-virus software.
-
-
-## ML N-MAP 
-
-Consider a network trained to detect running ports, vulnerabilities etc. 
-
-[REF](https://www.researchgate.net/publication/327786263_Using_Deep_Learning_Model_for_Network_Scanning_Detection)
 
 
