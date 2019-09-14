@@ -13,7 +13,7 @@
 | CHAPTER 2  | [Cyber Tools](#CYBER-TOOLS)  |
 | CHAPTER 3  | [Knowledge Resources](#KNOWLEDGE-RESOURCES)  |
 | CHAPTER 4   | [Next-Gen Cyber Intelligence](#NEXT-GEN-INTELLIGENT-INTELLIGENCE)  |
-| CHAPTER 5   | [DEVSECOPS](#NEXT-GEN-INTELLIGENT-INTELLIGENCE)  |
+| CHAPTER 5   | [devicesSECOPS](#NEXT-GEN-INTELLIGENT-INTELLIGENCE)  |
 
   
   
@@ -47,6 +47,7 @@
 | NIST FRAMEWORK   | [NIST](#NIST-FRAMEWORK)  |
 | Open Web Application Security Project  | [OWASP](#Resource-Link)  |
 | Zero Trust Security  | [ZEROTRUST](#Zero-Trust-Security)  |
+| OSINT  | [OSINT](#Open-Source-Intelligence)  |
 
 <br />
 
@@ -121,6 +122,21 @@ In a Zero Trust model, you cannot trust anything in or out of your network: crea
 - [Cisco](https://www.cisco.com/c/en/us/products/security/zero-trust.html)
 - [Akami](https://www.akamai.com/uk/en/solutions/security/zero-trust-security-model.jsp)
 - [Symantec](https://www.symantec.com/en/uk/solutions/zero-trust-ecosystem)
+
+<br />
+<br />
+<br />
+
+## Open Source Intelligence
+
+![OSINT](https://miro.medium.com/max/2636/1*Dpf3zGMTvMZ94ydA2qIYmA.png)
+
+OSINT differs largely from the other frameworks, in that it is primarily a hackers framework *(but lies in a grey area)*, but can also be used for defence by 'knowing the enemy' and understanding common attack surfaces. OSINT framework focused on gathering information from free tools or resources. The intention is to help people find free OSINT resources.
+
+**Resources**
+
+[OSINT Compendium](https://osintframework.com/)
+[Top 10 OSINT tools](https://www.greycampus.com/blog/information-security/top-open-source-intelligence-tools)
 
 <br />
 <br />
