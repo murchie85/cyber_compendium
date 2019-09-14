@@ -1,6 +1,7 @@
 # CYBER SECURITY COMPENDIUM
 
-| QUICK NAVIGATION | TOPICS|
+### NAVIGATION
+| SECTION | TOPICS|
 | ------------- | ------------- |
 | CHAPTER 1   | [Frameworks](#FRAMEWORKS)  |
 | CHAPTER 2  | [Cyber Tools](#CYBER-TOOLS)  |
@@ -13,6 +14,8 @@
 <br />
 
 # FRAMEWORKS 
+
+### NAVIGATION
 
 | Topic | Quick Jump |
 | ------------- | ------------- |
@@ -51,7 +54,7 @@ This innovation behind the strategy is broken down into few core pillars, **iden
 
 ![OWASP IMAGE](https://images.techhive.com/images/article/2017/02/owasp-100709974-large.jpg)
   
-  
+
 
 The Open Web Application Security Project (OWASP) is an online community that produces freely-available articles, methodologies, documentation, tools, and technologies in the field of web application security
 
@@ -69,6 +72,8 @@ The goal of **OWASP TOP 10** is to educate developers, architects, managers, org
 <br />
 
 # CYBER TOOLS 
+
+### NAVIGATION
 
 | Topic | Quick Jump |
 | ------------- | ------------- |
@@ -90,6 +95,8 @@ The goal of **OWASP TOP 10** is to educate developers, architects, managers, org
   
 # KNOWLEDGE RESOURCES 
   
+### NAVIGATION
+
 | Topic | Quick Jump |
 | ------------- | ------------- |
 | Signature Wrapping  | [SIGNATURE WRAPPING ATTACK](#SIGNATURE-WRAPPING-ATTACK)  |
@@ -124,6 +131,8 @@ The goal of **OWASP TOP 10** is to educate developers, architects, managers, org
 <br />
   
 # NEXT-GEN INTELLIGENT INTELLIGENCE  
+
+### NAVIGATION
 
 | Topic | Quick Jump |
 | ------------- | ------------- |
