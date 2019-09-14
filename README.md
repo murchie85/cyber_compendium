@@ -32,10 +32,10 @@
 - OWASP  [OWASP](https://www.owasp.org/index.php/Main_Page)
 
   
-
-  
-    
-    
+<br />
+<br />
+<br />
+<br />
 
 # CYBER TOOLS 
 
@@ -45,14 +45,17 @@
 
 
   
-  
-  ## Hack The Box
+<br />
+<br />
+
+## Hack The Box
 - Hack the Box [here](https://www.hackthebox.eu/)
 - Hack the Box tutorial [here](https://0xrick.github.io/hack-the-box/teacher/)
 
   
-  
-  
+<br />
+<br />
+<br />
   
 # KNOWLEDGE RESOURCES 
   
@@ -61,6 +64,10 @@
 | Signature Wrapping  | [SIGNATURE WRAPPING ATTACK](#SIGNATURE-WRAPPING-ATTACK)  |
 | AWESOME PENTEST  | [AWESOME PENTEST](#AWESOME-PENTEST)  |
 | How to NMAP   | [MAPPING PORTS](#HOW-TO-NMAP)  |
+
+<br />
+<br />
+<br />
 
 
 ## SIGNATURE WRAPPING ATTACK
@@ -73,6 +80,7 @@
 
   
 ## HOW TO NMAP
+  
 
   
 - NMAP How to [NMAP](https://hackertarget.com/nmap-tutorial/)
