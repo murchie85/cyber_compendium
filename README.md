@@ -42,11 +42,19 @@ This innovation behind the strategy is broken down into few core pillars, **iden
 
 <br />
 
-## Open Web Application Security Project (OWASP) 
+# Open Web Application Security Project (OWASP) 
+
+![OWASP IMAGE](https://images.techhive.com/images/article/2017/02/owasp-100709974-large.jpg)
 
 - OWASP  [OWASP](https://www.owasp.org/index.php/Main_Page)
 
-  
+The Open Web Application Security Project (OWASP) is an online community that produces freely-available articles, methodologies, documentation, tools, and technologies in the field of web application security
+
+## OWASP TOP 10
+
+The goal of **OWASP TOP 10** is to educate developers, architects, managers, organizations, and designers about the consequences of the most common and most important web application security weakness. OWASP TOP 10 provides **basics techniques** to protect against these high-risk problems and give guidance what to do next
+
+
 <br />
 <br />
 <br />
@@ -268,6 +276,6 @@ Detect AD hijacking
 **Behavioral Analytics with AI**
 
 ```
-Profile malicious users based on activities that haven’t quite crossed the line.
+Profile malicious users based on activities that haven’t quite crossed the line.	
 
 ```
