@@ -39,7 +39,7 @@
 
 # FRAMEWORKS 
 
-### [TOP](#NAVIGATION) 
+### [JUMP TO TOP](#NAVIGATION) 
 
 | Topic | Quick Jump |
 | ------------- | ------------- |
@@ -128,7 +128,7 @@ In a Zero Trust model, you cannot trust anything in or out of your network: crea
 
 # CYBER TOOLS 
 
-### [TOP](#NAVIGATION) 
+### [JUMP TO TOP](#NAVIGATION) 
 
 | Topic | Quick Jump |
 | ------------- | ------------- |
@@ -220,7 +220,7 @@ In a Zero Trust model, you cannot trust anything in or out of your network: crea
   
 # KNOWLEDGE RESOURCES 
   
-### [TOP](#NAVIGATION) 
+### [JUMP TO TOP](#NAVIGATION) 
 
 | Topic | Quick Jump |
 | ------------- | ------------- |
@@ -273,7 +273,7 @@ In a Zero Trust model, you cannot trust anything in or out of your network: crea
   
 # NEXT-GEN INTELLIGENT INTELLIGENCE  
 
-### [TOP](#NAVIGATION) 
+### [JUMP TO TOP](#NAVIGATION) 
 
 | Topic | Quick Jump |
 | ------------- | ------------- |
