@@ -1,7 +1,6 @@
 # CYBER SECURITY COMPENDIUM
 
-### NAVIGATION
-| SECTION | TOPICS|
+| NAVIGATION | TOPICS|
 | ------------- | ------------- |
 | CHAPTER 1   | [Frameworks](#FRAMEWORKS)  |
 | CHAPTER 2  | [Cyber Tools](#CYBER-TOOLS)  |
@@ -20,7 +19,7 @@
 | Topic | Quick Jump |
 | ------------- | ------------- |
 | NIST FRAMEWORK   | [NIST](#NIST-FRAMEWORK)  |
-| Open Web Application Security Project  | [OWASP](#Resource-	Link)  |
+| Open Web Application Security Project  | [OWASP](#Resource-Link)  |
 
 <br />
 
@@ -61,7 +60,7 @@ The Open Web Application Security Project (OWASP) is an online community that pr
 ## OWASP TOP 10
 
 ![TOP10](IMAGES/TOP10.png)
-  
+[download the guide](https://www.owasp.org/images/7/72/OWASP_Top_10-2017_%28en%29.pdf.pdf)
 
 The goal of **OWASP TOP 10** is to educate developers, architects, managers, organizations, and designers about the consequences of the most common and most important web application security weakness. OWASP TOP 10 provides **basics techniques** to protect against these high-risk problems and give guidance what to do next
 
