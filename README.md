@@ -100,6 +100,8 @@ The goal of **OWASP TOP 10** is to educate developers, architects, managers, org
 
 ## Zero Trust Security
 
+![zt image](https://www.travelers.com/iw-images/resources/Business/Large/NetworkSecurity_large.jpg)
+
 `"The perimeter is dead: Long live the micro perimeter."`
 
 It's time to abandon the caslte and mote analogy for security. 
