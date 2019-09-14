@@ -31,11 +31,10 @@
 | SECTION | TOPICS|
 | ------------- | ------------- |
 | **CHAPTER 1**   | [Frameworks](#FRAMEWORKS)  |
-| NIST FRAMEWORK   | [NIST](#NIST-FRAMEWORK)  |
+| *NIST FRAMEWORK*   | [NIST](#NIST-FRAMEWORK)  |
 | Open Web Application Security Project  | [OWASP](#Resource-Link)  |
 | Zero Trust Security  | [ZEROTRUST](#Zero-Trust-Security)  |
 | OSINT  | [OSINT](#Open-Source-Intelligence)  |
-
 | **CHAPTER 2**  | [Cyber Tools](#CYBER-TOOLS)  |
 | Hack the Box   | [HTB](#Hack-The-Box)  |
 | ThreatConnect  | [ThreatConnect](#ThreatConnect)  |
