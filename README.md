@@ -17,7 +17,7 @@
 | Topic | Quick Jump |
 | ------------- | ------------- |
 | NIST FRAMEWORK   | [NIST](#NIST-FRAMEWORK)  |
-| Open Web Application Security Project  | [OWASP](#Open-Web-Application-Security-Project-(OWASP))  |
+| Open Web Application Security Project  | [OWASP](#Resource-Link)  |
 
 <br />
 
@@ -44,9 +44,11 @@ This innovation behind the strategy is broken down into few core pillars, **iden
 
 # Open Web Application Security Project (OWASP) 
 
+
 ![OWASP IMAGE](https://images.techhive.com/images/article/2017/02/owasp-100709974-large.jpg)
 
-- OWASP  [OWASP](https://www.owasp.org/index.php/Main_Page)
+### Resource Link
+- [OWASP](https://www.owasp.org/index.php/Main_Page)
 
 The Open Web Application Security Project (OWASP) is an online community that produces freely-available articles, methodologies, documentation, tools, and technologies in the field of web application security
 
