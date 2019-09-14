@@ -1,5 +1,8 @@
 # CYBER SECURITY COMPENDIUM
 
+![TITLE IMAGE](head.jpg)
+
+
 | NAVIGATION | TOPICS|
 | ------------- | ------------- |
 | CHAPTER 1   | [Frameworks](#FRAMEWORKS)  |
@@ -9,9 +12,15 @@
 
   
   
-![TITLE IMAGE](head.jpg)
-<br />
 
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 # FRAMEWORKS 
 
 ### NAVIGATION
