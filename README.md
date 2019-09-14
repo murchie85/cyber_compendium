@@ -25,6 +25,11 @@
 
 ## NIST FRAMEWORK 
 
+On February 12th 2013, president Obama issued executive order 13636 to improve critical infrastructure cyber security. One year later NIST released a voluntary framework, which can be considered as a living/evolving document.
+This differs from other compliance such as PCI, HIPAA - this is a general overview framework that is relevant hierarchically for all people form all backgrounds. The idea is to help people organize their thoughts and strategies to better improve communication and cyber security posture. 
+ 
+<br />
+
 ![NIST](https://www.identitymaestro.com/wp-content/uploads/2019/03/NIST-Framework-Visual-with-Functions-and-Categories.png)
 <br />
 
@@ -32,7 +37,7 @@
 
 <br />
 
-## Open Web Application Security Project (OWASP) 
+	## Open Web Application Security Project (OWASP) 
 
 - OWASP  [OWASP](https://www.owasp.org/index.php/Main_Page)
 
