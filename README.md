@@ -113,6 +113,12 @@ This innovation behind the strategy is broken down into few core pillars, **iden
 | ------------- | ------------- |
 | Next Gen Architectures  | [ROBUST AI FRAUD ARCHITECTURES](#ROBUST-AI-FRAUD-ARCHITECTURES)  |
 | Dynamic GCP  | [GCP RECOMMENDATIONS](#GCP-RECOMMENDATIONS)  |
+| ML INJECTION  | [NEURALNET INJECTION](#ML-INJECTION )  |
+| ML N-MAP   | [ML N-MAP ](#ML-N-MAP  )  |
+| TURBOCHARGED SQL INJECTION  | [SQL-INJECTION-TURBOCHARGING ](#SQL-INJECTION-TURBOCHARGING )  |
+
+
+
 
 
 <br />
@@ -206,3 +212,27 @@ Recommenders automatically analyze usage patterns to help determine if resources
 With the **Cloud Identity and Access Management (Cloud IAM) Recommender**, you can automatically detect weak access policies and adjust them based on the access patterns of similar users in your organization. This is a follow up to the Alpha launch at Cloud Next this past April.
 
 The Google Compute Engine Rightsizing Recommender helps you choose the optimal virtual machine size for your workload. Our experience working with customers shows that they often initially provision machines that are too small or too large.
+
+
+## SQL INJECTION TURBOCHARGING
+
+- OBTAIN LIST OF 1000+ SQL INJECTION METHODS
+- LABEL BASED ON TARGET OS, TARGET APPLICATION ETC
+- CLASSIFY (SUCCESS/FAILURE/NA)
+- PRODUCE MODEL THAT OFFERS THE BEST ATTACK VECTOR FOR A GIVEN TARGET
+
+
+## ML INJECTION 
+
+The ultimate attack profile. 
+
+1. Decimenate payload on target machine 
+2. Payload acts as intelligent trojan, using client side training or federated learning. 
+3. Probing and moving itself reactively, not based on static if/or statements, but actually adapting to anti-virus software.
+
+
+## ML N-MAP 
+
+Consider a network trained to detect running ports, vulnerabilities etc. 
+
+[REF](https://www.researchgate.net/publication/327786263_Using_Deep_Learning_Model_for_Network_Scanning_Detection)
