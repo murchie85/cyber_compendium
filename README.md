@@ -135,8 +135,8 @@ OSINT differs largely from the other frameworks, in that it is primarily a hacke
 
 **Resources**
 
-[OSINT Compendium](https://osintframework.com/)
-[Top 10 OSINT tools](https://www.greycampus.com/blog/information-security/top-open-source-intelligence-tools)
+- [OSINT Compendium](https://osintframework.com/)  
+- [Top 10 OSINT tools](https://www.greycampus.com/blog/information-security/top-open-source-intelligence-tools)
 
 <br />
 <br />
