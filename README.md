@@ -126,6 +126,9 @@ The goal of **OWASP TOP 10** is to educate developers, architects, managers, org
 <br />
 
 ## Hack The Box
+
+![hack the box](https://tech.eu/wp-content/uploads/2019/04/Hack-The-Box-logo.png)
+
 - Hack the Box [here](https://www.hackthebox.eu/)
 - Hack the Box tutorial [here](https://0xrick.github.io/hack-the-box/teacher/)
 
