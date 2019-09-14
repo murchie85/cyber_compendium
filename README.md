@@ -30,6 +30,9 @@
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
 
 # FRAMEWORKS 
 
@@ -98,7 +101,23 @@ The goal of **OWASP TOP 10** is to educate developers, architects, managers, org
 | Hack the Box   | [HTB](#Hack-The-Box)  |
 
 
-  
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 <br />
 <br />
 
@@ -121,6 +140,22 @@ The goal of **OWASP TOP 10** is to educate developers, architects, managers, org
 | AWESOME PENTEST  | [AWESOME PENTEST](#AWESOME-PENTEST)  |
 | How to NMAP   | [MAPPING PORTS](#HOW-TO-NMAP)  |
 
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
@@ -164,6 +199,23 @@ The goal of **OWASP TOP 10** is to educate developers, architects, managers, org
 
 
 
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 <br />
 <br />
 
