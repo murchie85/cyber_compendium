@@ -277,17 +277,19 @@ In a Zero Trust model, you cannot trust anything in or out of your network: crea
 
 | Topic | Quick Jump |
 | ------------- | ------------- |
-| Next Gen Architectures  | [ROBUST AI FRAUD ARCHITECTURES](#ROBUST-AI-FRAUD-ARCHITECTURES)  |
-| Dynamic GCP  | [GCP RECOMMENDATIONS](#GCP-RECOMMENDATIONS)  |
 | AI FOR OFFENCE | [DARKTRACE WHITEPAPER](#DARKTRACE-WHITEPAPER)  |
 |   | [NEURALNET INJECTION](#ML-INJECTION )  |
 |    | [ML N-MAP ](#ML-N-MAP  )  |
 |  | [SQL-INJECTION-TURBOCHARGING ](#SQL-INJECTION-TURBOCHARGING )  |
 | AI FOR DEFENCE | [AI FOR DEFENCE](#AI-FOR-DEFENCE)  |
+|  | [BEST PRACTICES](#BEST-PRACTICES)  |
+|   | [ROBUST AI FRAUD ARCHITECTURES](#ROBUST-AI-FRAUD-ARCHITECTURES)  |
+|  | [Dynamic GCP ](#GCP-RECOMMENDATIONS)  |
 
 
 
 
+
 <br />
 <br />
 <br />
@@ -307,6 +309,45 @@ In a Zero Trust model, you cannot trust anything in or out of your network: crea
 <br />
 <br />
 <br />
+
+
+
+# AI FOR DEFENCE
+
+## BEST PRACTICES 
+
+**Machine Learning In Cyber Threat Detection**
+
+```
+LEARN ATTACK PROFILES
+```
+
+**AI, Password Protection and Authentication**
+
+```
+Biometrics are easily circumvented
+
+AI can enhanced FACE ID tampering
+```
+
+
+**AI-ML In Phishing Detection And Prevention Control**
+
+**Usage of AI-ML In Vulnerability Management**
+
+```
+Detect open ports
+Detect Unpatched servers, botched patches, patch clashes 
+Detect AD hijacking
+```
+
+**Behavioral Analytics with AI**
+
+```
+Profile malicious users based on activities that haven’t quite crossed the line.	
+
+```
+
 
 # ROBUST AI FRAUD ARCHITECTURES
 
@@ -397,6 +438,15 @@ With the **Cloud Identity and Access Management (Cloud IAM) Recommender**, you c
 
 The Google Compute Engine Rightsizing Recommender helps you choose the optimal virtual machine size for your workload. Our experience working with customers shows that they often initially provision machines that are too small or too large.
 
+
+
+
+
+
+
+
+
+
 # AI FOR OFFENCE
 
 ## DARKTRACE WHITEPAPER
@@ -448,36 +498,3 @@ Consider a network trained to detect running ports, vulnerabilities etc.
 [REF](https://www.researchgate.net/publication/327786263_Using_Deep_Learning_Model_for_Network_Scanning_Detection)
 
 
-# AI FOR DEFENCE
-
-**Machine Learning In Cyber Threat Detection**
-
-```
-LEARN ATTACK PROFILES
-```
-
-**AI, Password Protection and Authentication**
-
-```
-Biometrics are easily circumvented
-
-AI can enhanced FACE ID tampering
-```
-
-
-**AI-ML In Phishing Detection And Prevention Control**
-
-**Usage of AI-ML In Vulnerability Management**
-
-```
-Detect open ports
-Detect Unpatched servers, botched patches, patch clashes 
-Detect AD hijacking
-```
-
-**Behavioral Analytics with AI**
-
-```
-Profile malicious users based on activities that haven’t quite crossed the line.	
-
-```
