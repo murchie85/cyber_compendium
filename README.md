@@ -1,19 +1,78 @@
 # CYBER SECURITY COMPENDIUM
 
-[RESOURCE LIST](#RESOURCES-LIST)
+| Topic | Quick Jump |
+| ------------- | ------------- |
+| FRAMEWORKS   | [Frameworks](#FRAMEWORKS)  |
+| CYBER TOOLS  | [Cyber](#CYBER-TOOLS)  |
+| KT RESOURCES  | [Knowledge Resources](#KNOWLEDGE-RESOURCES)  |
+
   
   
 ![TITLE IMAGE](head.jpg)
 
 
-# RESOURCES LIST 
 
-## In progress
 
+
+# FRAMEWORKS 
+
+| Topic | Quick Jump |
+| ------------- | ------------- |
+| NIST FRAMEWORK   | [NIST](#NIST-FRAMEWORK)  |
+| Open Web Application Security Project  | [OWASP](#Open-Web-Application-Security-Project-(OWASP))  |
+
+## NIST FRAMEWORK 
 - NIST FRAMEWORK  [NIST](https://www.nist.gov/cyberframework) 
-- AWESOME-PENTEST  [PENTEST](https://github.com/enaqx/awesome-pentest)
-- NMAP How to [NMAP](https://hackertarget.com/nmap-tutorial/)
+
+
+
+ 
+## Open Web Application Security Project (OWASP) 
+
 - OWASP  [OWASP](https://www.owasp.org/index.php/Main_Page)
-- Signature Wrapping [Here](https://www.ws-attacks.org/XML_Signature_Wrapping)
+
+  
+
+  
+    
+    
+
+# CYBER TOOLS 
+
+| Topic | Quick Jump |
+| ------------- | ------------- |
+| Hack the Box   | [HTB](#Hack-The-Box)  |
+
+
+  
+  
+  ## Hack The Box
 - Hack the Box [here](https://www.hackthebox.eu/)
 - Hack the Box tutorial [here](https://0xrick.github.io/hack-the-box/teacher/)
+
+  
+  
+  
+  
+# KNOWLEDGE RESOURCES 
+  
+| Topic | Quick Jump |
+| ------------- | ------------- |
+| Signature Wrapping  | [SIGNATURE WRAPPING ATTACK](#SIGNATURE-WRAPPING-ATTACK)  |
+| AWESOME PENTEST  | [AWESOME PENTEST](#AWESOME-PENTEST)  |
+| How to NMAP   | [MAPPING PORTS](#HOW-TO-NMAP)  |
+
+
+## SIGNATURE WRAPPING ATTACK
+- Signature Wrapping [Here](https://www.ws-attacks.org/XML_Signature_Wrapping) 
+  
+
+## AWESOME PENTEST
+    
+- AWESOME-PENTEST  [PENTEST](https://github.com/enaqx/awesome-pentest)
+
+  
+## HOW TO NMAP
+
+  
+- NMAP How to [NMAP](https://hackertarget.com/nmap-tutorial/)
