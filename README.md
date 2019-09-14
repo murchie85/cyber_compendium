@@ -398,6 +398,31 @@ The Google Compute Engine Rightsizing Recommender helps you choose the optimal v
 
 # AI FOR OFFENCE
 
+## DARKTRACE WHITEPAPER
+
+![DARKTRACE](https://www.darktrace.com/en/img/cards/552x309.jpg)
+
+### The Next Paradigm Shift 
+
+**AI-Driven Cyber-Attacks**
+
+[LINK](https://www.darktrace.com/en/resources/wp-ai-driven-cyber-attacks.pdf)
+
+
+This report exampines the present state of the threatlandscape and explore the role narrow artificial intelligence (AI) will play in cyber-offense.
+It presents three scenarios where advanced threats have achieved high levels of sophistication for specific, isolated characteristics. 
+
+1. Autonomous malware
+2. Intelligent evasion techniques
+3. Low-and-slow data exfiltration 
+
+
+Each threat covers a different phase of the attack lifecycle:
+
+- Lateral movement
+- Command & control traffic
+- Data exfiltration
+
 ## SQL INJECTION TURBOCHARGING
 
 - OBTAIN LIST OF 1000+ SQL INJECTION METHODS
