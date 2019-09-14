@@ -5,6 +5,7 @@
 | FRAMEWORKS   | [Frameworks](#FRAMEWORKS)  |
 | CYBER TOOLS  | [Cyber](#CYBER-TOOLS)  |
 | KT RESOURCES  | [Knowledge Resources](#KNOWLEDGE-RESOURCES)  |
+| NEXT-GEN   | [INTELLIGENT INTELLIGENCE](#NEXT-GEN-INTELLIGENT-INTELLIGENCE)  |
 
   
   
@@ -100,3 +101,104 @@ This innovation behind the strategy is broken down into few core pillars, **iden
 
   
 - NMAP How to [NMAP](https://hackertarget.com/nmap-tutorial/)
+
+
+
+
+<br />
+<br />
+<br />
+  
+# NEXT-GEN INTELLIGENT INTELLIGENCE  
+
+| Topic | Quick Jump |
+| ------------- | ------------- |
+| Next Gen Architectures  | [ROBUST AI FRAUD ARCHITECTURES](#ROBUST-AI-FRAUD-ARCHITECTURES)  |
+| Dynamic GCP  | [GCP RECOMMENDATIONS](#GCP-RECOMMENDATIONS)  |
+
+
+<br />
+<br />
+
+# ROBUST AI FRAUD ARCHITECTURES
+
+Many compnaies are now building end to end machine learning pipelines to lock down services instead of hiring humans to do the analytics and prevention. 
+  
+
+### SETBACKS   
+
+These models use hundreds if not thousands of data points to accurately classify a transaction as valid or not. Even the most sophisticated methods are unable to correctly identify a lot of fraudulent transactions.
+
+- Biggest issues with A.I fraud engines is that they quickly become irrelevant.
+- This is because fraud tactics change in real time. 
+- Customer data used to predict fraud today, becomes irrelevant tomorrow.
+  
+  
+### AI ARCHITECTURE
+
+Example of a new scalable Fraud prevention architecture.
+
+*"An app which organisations can embedd into their product, so that they generate realtime fraud metrics that act as a quality gate on transactions"*
+
+
+- APP hosted on cloud (GCP, AWS etc)
+- Client side, they implement some js or trigger to A.I cloud hosted service 
+- On the checkout page (Say as a customer busy/sells something) the snippet is added
+- USER META data is sent (Time on page, IP address, The web browser they are using) automatically
+- Standard google analytics process (they make their clients do it too )
+- API call will need to be implemented to send sensitive user purchase data (card details) and encrypt it.
+- Sensitive and User meta data is concatinated into the machine learning model 
+- A score is produce (how likely the transaction is to be fraud based on score)
+
+### 2020 AI ARCHITECTURE
+
+This is so 2019 
+
+Weaknesses include `non gdpr compliant` because data is encrypted, but shared without permission. So information is secure, but not compliant. 
+
+We need to ...
+
+```
+Modify architecture to preserve privacy and learn from User data 
+```
+
+1. First encrypt User data 
+2. Then perform CLIENT side machine learning from it.
+3. So we send to the server, not the **RAW DATA** but what it has **LEARNED** from the data.
+4. This is in the form of an encrypted weights file 
+5. 
+
+### KEY FEATURES
+
+1. Continuous Training
+2. Federated Learning (Client Side)
+3. Model Encryption, Share only the encrypted weights back to server
+4. Secure Multi-party compliant communication 
+
+### KEY STRATEGIES
+
+- Utilize cloud 
+**LAMBDA KINESIS S3 ATHENA**
+- Make responsive just in time triggers (serverless)
+- Streat data in real time 
+
+### INFRASTRUCTURE STRATEGY 
+
+Request to API is initiated 
+AWS app passes request to Lambda (event driven compute)
+Feeds into kinesis an AWS tool capable of processing hundreds of terrabytes of data per hour 
+Operating laws, social media feeds, our case fin tranactions
+Kinesis helps us avoid heavy queuing by creating a scalable datastream and sharding
+Then we use firehose functionality to write functionality to S3 
+Then we query S3 database using Athena so we can immediately display it in analytics dashboards
+
+<br />
+<br />
+<br />
+## GCP RECOMMENDATIONS
+
+Recommenders automatically analyze usage patterns to help determine if resources and policies within Google Cloud are optimally configured. Data usage information is not shared in the process.
+
+With the **Cloud Identity and Access Management (Cloud IAM) Recommender**, you can automatically detect weak access policies and adjust them based on the access patterns of similar users in your organization. This is a follow up to the Alpha launch at Cloud Next this past April.
+
+The Google Compute Engine Rightsizing Recommender helps you choose the optimal virtual machine size for your workload. Our experience working with customers shows that they often initially provision machines that are too small or too large.
