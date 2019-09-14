@@ -134,6 +134,8 @@ These models use hundreds if not thousands of data points to accurately classify
   
 ### AI ARCHITECTURE
 
+![arch](https://i0.wp.com/opentechai.blog/wp-content/uploads/2017/10/opentechai-flower.png?resize=498%2C364&ssl=1)  
+
 Example of a new scalable Fraud prevention architecture.
 
 *"An app which organisations can embedd into their product, so that they generate realtime fraud metrics that act as a quality gate on transactions"*
@@ -196,6 +198,8 @@ Then we query S3 database using Athena so we can immediately display it in analy
 
 
 ## GCP RECOMMENDATIONS
+
+![recommendation engine](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL0Ru00Bavpcv4I9ll5nYE6x54LF5QMb3PnHNdnBZESloJpjttMQ)
 
 Recommenders automatically analyze usage patterns to help determine if resources and policies within Google Cloud are optimally configured. Data usage information is not shared in the process.
 
