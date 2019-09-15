@@ -14,6 +14,8 @@
 | CHAPTER 3  | [Knowledge Resources](#KNOWLEDGE-RESOURCES)  |
 | CHAPTER 4   | [Next-Gen Cyber Intelligence](#NEXT-GEN-INTELLIGENT-INTELLIGENCE)  |
 | CHAPTER 5   | [DEVSECOPS](#NEXT-GEN-INTELLIGENT-INTELLIGENCE)  |
+| CHAPTER 6   | [COMPLIANCE Frameworks](#COMPLIANCE)  |
+
 
 <br />
 <br />
@@ -556,8 +558,61 @@ With the **Cloud Identity and Access Management (Cloud IAM) Recommender**, you c
 The Google Compute Engine Rightsizing Recommender helps you choose the optimal virtual machine size for your workload. Our experience working with customers shows that they often initially provision machines that are too small or too large.
 
 
+# COMPLIANCE 
 
 
+### [JUMP TO TOP](#NAVIGATION) 
+
+| Topic | Quick Jump |
+| ------------- | ------------- |
+| CSA STAR  | [CLOUD AUDITING](#CSA-STAR)  |
+| ISO 27001 | [POLICY AUDITING](#AISO-27001)  |
+| Leidos   | [Accredited Testing](#LEIDOS)  |
+
+<br />
+<br />
+<br />
+<br />
+
+
+## CSA STAR 
+
+![STAR IMAGE](star.png)
+  
+[Testing Overview](https://cloudsecurityalliance.org/star/levels/) 
+
+
+CSA star is a **Open Certification Framework** for an organisations cloud controls.
+
+CSA STAR Self-Assessment is a complimentary offering that documents the security controls provided by various cloud computing offerings, thereby helping users assess the security of cloud providers they currently use or are considering using. Cloud providers either submit a completed Consensus Assessments Initiative Questionnaire (CAIQ), or submit a report documenting compliance with the Cloud Controls Matrix (CCM). This information then becomes publicly available, promoting industry transparency and providing customer visibility into specific provider security practices.
+
+Three main levels:
+
+1. Self Assesment 
+2. Third Party Audit
+3. Continuous Audit
+
+
+**Level one** organizations can submit one or both of the security and privacy self-assessments. **Level two** Organizations looking for a third-party audit can choose from one or more of the security and privacy audits and certifications. An organization’s location, along with the regulations and standards it is subject to will have the greatest factor in determining which ones are appropriate to pursue.
+
+<br />
+<br />
+
+## ISO 27001 
+
+
+![ISO IMAGE](https://images.squarespace-cdn.com/content/v1/5bfda3a52714e561f6834c22/1557497262455-PTEX1JT48SQHD5CHHBF3/ke17ZwdGBToddI8pDm48kNBhxsR5AixTPaSt36FQjZRZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIGWonAD8CCw7nDqU_Mkbm1m15vfiG_IfUBAoG80XVMVo/Blog-Product+Uopdates-ISO27001-Cover.png)
+
+[ISO DEFINITION](https://whatis.techtarget.com/definition/ISO-27001)
+
+<br />
+<br />
+
+## LEIDOS
+
+![LEIDOS](http://www.asdnews.com/NewsImages/b/35929/37176_O.jpg)
+
+[Testing Overview](https://www.leidos.com/competencies/cyber/accredited-testing-evaluation)
 
 
 
