@@ -245,6 +245,8 @@ OSINT differs largely from the other frameworks, in that it is primarily a hacke
 - Home[here](https://aws.amazon.com/guardduty/)
 - Info [here](https://searchaws.techtarget.com/definition/Amazon-GuardDuty)
 
+Amazon GuardDuty is a threat detection service that continuously monitors for malicious activity and unauthorized behavior to protect your AWS accounts and workloads. With the cloud, the collection and aggregation of account and network activities is simplified, but it can be time consuming for security teams to continuously analyze event log data for potential threats. With GuardDuty, you now have an intelligent and cost-effective option for continuous threat detection in the AWS Cloud. The service uses machine learning, anomaly detection, and integrated threat intelligence to identify and prioritize potential threats. GuardDuty analyzes tens of billions of events across multiple AWS data sources, such as AWS CloudTrail, Amazon VPC Flow Logs, and DNS logs.
+
 
 <br />
 <br />
