@@ -654,15 +654,21 @@ The Google Compute Engine Rightsizing Recommender helps you choose the optimal v
 
 | Topic | Quick Jump |
 | ------------- | ------------- |
-| CSA STAR  | [Cloud Auditing](#CSA-STAR)  |
+| Intro | [DevSecOps Overview](#DEVSECOPS-OVERVIEW)  |
+| Misconceptions | [DevSecOps Misconceptions](#DEVSECOPS-MISCONCEPTIONS)  |
+| Scaling | [DEVSECOPS at Scale](#DEVOPS-AT-SCALE)  |
 
 
-
+## DEVSECOPS OVERVIEW
 
 ![DEVSECOPS IMAGE](IMAGES/DS1.png)
 
+## DEVSECOPS MISCONCEPTIONS
+
+
 ![DEVSECOPS IMAGE](IMAGES/DS2.png)
 
+## DEVOPS AT SCALE
 ![DEVSECOPS IMAGE](IMAGES/DS3.png)
 
 # COMPLIANCE 
