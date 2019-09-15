@@ -13,8 +13,8 @@
 | CHAPTER 2  | [Cyber Tools](#CYBER-TOOLS)  |
 | CHAPTER 3  | [Knowledge Resources](#KNOWLEDGE-RESOURCES)  |
 | CHAPTER 4   | [Next-Gen Cyber Intelligence](#NEXT-GEN-INTELLIGENT-INTELLIGENCE)  |
-| CHAPTER 5   | [DEVSECOPS](#NEXT-GEN-INTELLIGENT-INTELLIGENCE)  |
-| CHAPTER 6   | [COMPLIANCE Frameworks](#COMPLIANCE)  |
+| CHAPTER 5   | [DevSecOps](#NEXT-GEN-INTELLIGENT-INTELLIGENCE)  |
+| CHAPTER 6   | [Compliance Frameworks](#COMPLIANCE)  |
 
 
 <br />
@@ -61,8 +61,8 @@
 |  | [BEST PRACTICES](#BEST-PRACTICES)  |
 |   | [ROBUST AI FRAUD ARCHITECTURES](#ROBUST-AI-FRAUD-ARCHITECTURES)  |
 |  | [Dynamic GCP ](#GCP-RECOMMENDATIONS)  |
-| CHAPTER 5   | [DEVSECOPS](#NEXT-GEN-INTELLIGENT-INTELLIGENCE)  |
-| CHAPTER 6   | [COMPLIANCE Frameworks](#COMPLIANCE)  |
+| CHAPTER 5   | [DevSecOps](#NEXT-GEN-INTELLIGENT-INTELLIGENCE)  |
+| CHAPTER 6   | [Compliance Frameworks](#COMPLIANCE)  |
 | CSA STAR  | [CLOUD AUDITING](#CSA-STAR)  |
 | ISO 27001 | [POLICY AUDITING](#AISO-27001)  |
 | Leidos   | [Accredited Testing](#LEIDOS)  |
@@ -581,7 +581,7 @@ The Google Compute Engine Rightsizing Recommender helps you choose the optimal v
 
 ## CSA STAR 
 
-![STAR IMAGE](star.png)
+![STAR IMAGE](IMAGES/star.png)
   
 [Testing Overview](https://cloudsecurityalliance.org/star/levels/) 
 
