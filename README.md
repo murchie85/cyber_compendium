@@ -211,11 +211,13 @@ OSINT differs largely from the other frameworks, in that it is primarily a hacke
 | ------------- | ------------- |
 | AWS Guard​Duty   | [Guard​Duty](#Guard-Duty)  |
 | Crowd Strike   | [Crowd Strike](#Crowd-Strike)  |
-| Hack the Box   | [HTB](#Hack-The-Box)  |
 | ThreatConnect  | [ThreatConnect](#ThreatConnect)  |
 | Bloodhound  | [Bloodhound](#Bloodhound)  |
 | MISP  | [MISP](#MISP)  |
 | Cyber Chef  | [Cyber Chef](#Cyber-Chef)  |
+| **oOPEN SOURCE** | **FREE-EASY** |
+| Hack the Box   | [HTB](#Hack-The-Box)  |
+| Pwned  | [PWNED](#PWNED-PASSWORDS)  |
 
 
 <br />
@@ -326,8 +328,19 @@ CrowdStrike is a leader in cloud-delivered, next-generation services for endpoin
 - CyberChef [here](https://github.com/gchq/CyberChef)
 - CyberSaucier [here](https://github.com/DBHeise/CyberSaucier)
 
+<br />
+<br />
 
-  
+
+# PWNED PASSWORDS
+
+![PWNED](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDEYvr4H5xDdaw1RHWgC_NN1RyPYLUzWaPMqDyPkbwM1ke7w8r)
+
+[Have you been pwned?](https://haveibeenpwned.com)
+
+Have I Been Pwned? is a website that allows internet users to check if their personal data has been compromised by data breaches.
+
+
 <br />
 <br />
 <br />
