@@ -254,11 +254,12 @@ OSINT differs largely from the other frameworks, in that it is primarily a hacke
 
 ![Crowd Strike](https://solutionsreview.com/endpoint-security/files/2019/03/crowdstrike-modified.jpg)
 
-CrowdStrike is a leader in cloud-delivered, next-generation services for endpoint protection, threat intelligence, and response. The CrowdStrike Falcon platform stops breaches by preventing and responding to all types of attacks—both malware and malware-free. The company has revolutionized endpoint protection by combining next-generation anti-virus technology with endpoint detection and response, coupled with a 24/7 managed hunting service, all delivered via the cloud in a single integrated solution. Falcon uses the patented CrowdStrike Threat Graph™ to analyze and correlate billions of events in real time, providing complete protection and five-second visibility across all endpoints. CrowdStrike Falcon is currently deployed in more than 170 countries. 
 
 - EndPoint Protection[here](https://www.crunchbase.com/organization/crowdstrike)
 - Case Study [here](https://aws.amazon.com/solutions/case-studies/crowdstrike/)
 
+
+CrowdStrike is a leader in cloud-delivered, next-generation services for endpoint protection, threat intelligence, and response. The CrowdStrike Falcon platform stops breaches by preventing and responding to all types of attacks—both malware and malware-free. The company has revolutionized endpoint protection by combining next-generation anti-virus technology with endpoint detection and response, coupled with a 24/7 managed hunting service, all delivered via the cloud in a single integrated solution. Falcon uses the patented CrowdStrike Threat Graph™ to analyze and correlate billions of events in real time, providing complete protection and five-second visibility across all endpoints. CrowdStrike Falcon is currently deployed in more than 170 countries. 
 
 
 
