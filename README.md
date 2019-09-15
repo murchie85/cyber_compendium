@@ -619,5 +619,14 @@ Three main levels:
 [Testing Overview](https://www.leidos.com/competencies/cyber/accredited-testing-evaluation)
 
 
+- Common Criteria
+- FIPS 140-2
+- GSA FIPS 201& NIST PIV
+- SCAP
+- TWIC
+- CONSULTING
+- SCAP
+- TWIC 
 
+The Leidos Accredited Testing & Evaluation Laboratory is comprised of two industry leading laboratories: Common Criteria and FIPS 140-2. Both are accredited by the National Voluntary Laboratory Accreditation Program (NVLAP Lab Code: 200427-0) and provide IT security evaluation and testing services for commercial companies to meet their federal and international sales acquisition requirements. Our labs have in aggregate certified more than 1,000 commercial products.
 
