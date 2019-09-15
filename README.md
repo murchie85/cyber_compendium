@@ -609,6 +609,17 @@ Three main levels:
 
 [ISO DEFINITION](https://whatis.techtarget.com/definition/ISO-27001)
 
+ISO 27001 is a specification for an information security management system (ISMS). An ISMS is a framework of policies and procedures that includes all legal, physical and technical controls involved in an organisation's information risk management processes.
+
+ISO 27001 uses a topdown, risk-based approach and is technology-neutral. The specification defines a six-part planning process:
+
+1. Define a security policy.
+2. Define the scope of the ISMS.
+3. Conduct a risk assessment.
+4. Manage identified risks.
+5. Select control objectives and controls to be implemented.
+6. Prepare a statement of applicability.
+
 <br />
 <br />
 
