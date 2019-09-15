@@ -215,7 +215,7 @@ OSINT differs largely from the other frameworks, in that it is primarily a hacke
 | Bloodhound  | [Bloodhound](#Bloodhound)  |
 | MISP  | [MISP](#MISP)  |
 | Cyber Chef  | [Cyber Chef](#Cyber-Chef)  |
-| **oOPEN SOURCE** | **FREE-EASY** |
+| **OPEN SOURCE** | **FREE-EASY** |
 | Hack the Box   | [HTB](#Hack-The-Box)  |
 | Pwned  | [PWNED](#PWNED-PASSWORDS)  |
 
