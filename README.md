@@ -207,7 +207,7 @@ OSINT differs largely from the other frameworks, in that it is primarily a hacke
 
 | Topic | Quick Jump |
 | ------------- | ------------- |
-| AWS Guard​Duty   | [Guard​Duty](#Guard​Duty-Strike)  |
+| AWS Guard​Duty   | [Guard​Duty](#Guard​Duty)  |
 | Crowd Strike   | [Crowd Strike](#Crowd-Strike)  |
 | Hack the Box   | [HTB](#Hack-The-Box)  |
 | ThreatConnect  | [ThreatConnect](#ThreatConnect)  |
