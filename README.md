@@ -572,6 +572,8 @@ The Google Compute Engine Rightsizing Recommender helps you choose the optimal v
 | CSA STAR  | [CLOUD AUDITING](#CSA-STAR)  |
 | ISO 27001 | [POLICY AUDITING](#AISO-27001)  |
 | Leidos   | [Accredited Testing](#LEIDOS)  |
+| PCI 3.2   | [Data Security Standard](#PCI-3.2)  |
+| PCI HIPAA   | [HIPAA](#PCI-HIPAA)  |
 
 <br />
 <br />
@@ -620,6 +622,23 @@ ISO 27001 uses a topdown, risk-based approach and is technology-neutral. The spe
 5. Select control objectives and controls to be implemented.
 6. Prepare a statement of applicability.
 
+
+ISO 27002 contains 12 main sections:
+
+1. Risk assessment
+2. Security policy
+3. Organization of information security
+4. Asset management
+5. Human resources security
+6. Physical and environmental security
+7. Communications and operations management
+8. Access control
+9. Information systems acquisition, development and maintenance
+10. Information security incident management
+11. Business continuity management
+12. Compliance
+
+
 <br />
 <br />
 
@@ -641,3 +660,28 @@ ISO 27001 uses a topdown, risk-based approach and is technology-neutral. The spe
 
 The Leidos Accredited Testing & Evaluation Laboratory is comprised of two industry leading laboratories: Common Criteria and FIPS 140-2. Both are accredited by the National Voluntary Laboratory Accreditation Program (NVLAP Lab Code: 200427-0) and provide IT security evaluation and testing services for commercial companies to meet their federal and international sales acquisition requirements. Our labs have in aggregate certified more than 1,000 commercial products.
 
+<br />
+<br />
+
+## PCI 3.2
+
+The Payment Card Industry Security Standards Council (PCI SSC) has published a
+new version of the industry standard that businesses use to safeguard payment data
+before, during and after purchase. 
+
+![PCI 3.2](https://www.pcicomplianceguide.org/wp-content/uploads/2014/03/pci-dss-compliant.jpg)
+
+[Resource Guide](https://www.pcisecuritystandards.org/pdfs/PCI_DSS_Resource_Guide_(003).pdf)
+
+
+PCI DSS requirements apply to all organizations that store, process, or transmit cardholder data. PCI HIPAA compliance is about addressing specific, finite requirements to safeguard the integrity of financial information. PCI HIPAA compliance focuses heavily on network and data security.
+
+
+## PCI HIPAA 
+
+![PCI HIPAA](https://ix-cdn.brightedge.com/images/32040/32040_e6d1ac6290d74318b79b8f902c272beb_1521135571.png)
+
+[Home Page](https://pcihipaa.com/)
+
+
+PCI DSS requirements apply to all organizations that store, process, or transmit cardholder data. PCI HIPAA compliance is about addressing specific, finite requirements to safeguard the integrity of financial information. PCI HIPAA compliance focuses heavily on network and data security.
