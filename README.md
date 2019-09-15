@@ -43,6 +43,8 @@
 | Zero Trust Security  | [ZEROTRUST](#Zero-Trust-Security)  |
 | OSINT  | [OSINT](#Open-Source-Intelligence)  |
 | **CHAPTER 2**  | [Cyber Tools](#CYBER-TOOLS)  |
+| AWS Guard​Duty   | [Guard​Duty](#Guard​Duty)  |
+| Crowd Strike   | [Crowd Strike](#Crowd-Strike)  |
 | Hack the Box   | [HTB](#Hack-The-Box)  |
 | ThreatConnect  | [ThreatConnect](#ThreatConnect)  |
 | Bloodhound  | [Bloodhound](#Bloodhound)  |
