@@ -218,7 +218,7 @@ OSINT differs largely from the other frameworks, in that it is primarily a hacke
 | **OPEN SOURCE** | **FREE-EASY** |
 | Hack the Box   | [HTB](#Hack-The-Box)  |
 | Pwned  | [PWNED](#PWNED-PASSWORDS)  |
-
+| Threat Crowd  | [Threat-Crowd](#Threat-Crowd)  |
 
 <br />
 <br />
@@ -339,6 +339,22 @@ CrowdStrike is a leader in cloud-delivered, next-generation services for endpoin
 [Have you been pwned?](https://haveibeenpwned.com)
 
 Have I Been Pwned? is a website that allows internet users to check if their personal data has been compromised by data breaches.
+
+
+<br />
+<br />
+
+
+# Threat Crowd 
+
+![Threat-Crowd](https://1.bp.blogspot.com/-k7CQUS6t3nY/VtOJQzCErpI/AAAAAAAAANo/maNxj1K4S8Q/s1600/Overall.png)
+
+- [Threat Crowd Home](https://www.threatcrowd.org/)
+- [Tutorial](http://threatcrowd.blogspot.com/2015/03/tutorial.html)
+- [Tutorial2](html)
+
+
+ThreatCrowd is a system for finding and researching artefacts relating to cyber threats.
 
 
 <br />
