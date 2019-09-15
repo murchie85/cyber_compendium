@@ -676,7 +676,9 @@ DevSecOps is the philosophy of integrating security practices within the DevOps 
 <br />
 <br />
 <br />
-
+<br />
+<br />
+<br />
 
 
 ## DEVSECOPS MISCONCEPTIONS
@@ -688,8 +690,9 @@ DevSecOps is the philosophy of integrating security practices within the DevOps 
 <br />
 <br />
 <br />
-
-
+<br />
+<br />
+<br />
 
 ## DEVOPS AT SCALE
 ![DEVSECOPS IMAGE](IMAGES/DS3.png)
@@ -701,7 +704,9 @@ DevSecOps is the philosophy of integrating security practices within the DevOps 
 <br />
 <br />
 <br />
-
+<br />
+<br />
+<br />
 
 # COMPLIANCE 
 
