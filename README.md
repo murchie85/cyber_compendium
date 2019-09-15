@@ -648,6 +648,7 @@ The Google Compute Engine Rightsizing Recommender helps you choose the optimal v
 
 # DEVSECOPS 
 
+![DEVSECOPS](https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/devsecops-keys-to-success-showcase_image-1-a-11299.jpg)
 
 ### [JUMP TO TOP](#NAVIGATION) 
 
@@ -656,6 +657,13 @@ The Google Compute Engine Rightsizing Recommender helps you choose the optimal v
 | CSA STAR  | [Cloud Auditing](#CSA-STAR)  |
 
 
+
+
+![DEVSECOPS IMAGE](IMAGES/DS1.png)
+
+![DEVSECOPS IMAGE](IMAGES/DS2.png)
+
+![DEVSECOPS IMAGE](IMAGES/DS3.png)
 
 # COMPLIANCE 
 
