@@ -63,9 +63,11 @@
 |  | [Dynamic GCP ](#GCP-RECOMMENDATIONS)  |
 | CHAPTER 5   | [DevSecOps](#NEXT-GEN-INTELLIGENT-INTELLIGENCE)  |
 | CHAPTER 6   | [Compliance Frameworks](#COMPLIANCE)  |
-| CSA STAR  | [CLOUD AUDITING](#CSA-STAR)  |
-| ISO 27001 | [POLICY AUDITING](#AISO-27001)  |
+| CSA STAR  | [Cloud Auditing](#CSA-STAR)  |
+| ISO 27001 | [Policy Auditing](#AISO-27001)  |
 | Leidos   | [Accredited Testing](#LEIDOS)  |
+| PCI 3.2   | [Data Security Standard](#PCI-DSS)  |
+| PCI HIPAA   | [HIPAA](#PCI-HIPAA)  |
   
 
 <br />
@@ -173,6 +175,12 @@ In a Zero Trust model, you cannot trust anything in or out of your network: crea
 - [Akami](https://www.akamai.com/uk/en/solutions/security/zero-trust-security-model.jsp)
 - [Symantec](https://www.symantec.com/en/uk/solutions/zero-trust-ecosystem)
 
+**Mechanism** 
+
+Example 1 - use **Bastion hosts** .
+
+A bastion host is a special-purpose computer on a network specifically designed and configured to withstand attacks. The computer generally hosts a single application, for example a proxy server, and all other services are removed or limited to reduce the threat to the computer
+
 <br />
 <br />
 <br />
@@ -199,6 +207,8 @@ OSINT differs largely from the other frameworks, in that it is primarily a hacke
 
 | Topic | Quick Jump |
 | ------------- | ------------- |
+| Guard​Duty   | [aws Guard​Duty](#Guard​Duty)  |
+| Hack the Box   | [HTB](#Hack-The-Box)  |
 | Hack the Box   | [HTB](#Hack-The-Box)  |
 | ThreatConnect  | [ThreatConnect](#ThreatConnect)  |
 | Bloodhound  | [Bloodhound](#Bloodhound)  |
@@ -221,6 +231,38 @@ OSINT differs largely from the other frameworks, in that it is primarily a hacke
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
+<br />
+
+## Guard​Duty
+
+![Guard​Duty](https://d1.awsstatic.com/Products/product-name/diagrams/product-page-diagram-Amazon-GuardDuty_how-it-works.4370200b49eddc34d3a55c52c584484ceb2d532b.png)
+
+- Home[here](https://aws.amazon.com/guardduty/)
+- Info [here](https://searchaws.techtarget.com/definition/Amazon-GuardDuty)
+
+
+<br />
+<br />
+<br />
+<br />
+
+
+## Crowd Strike
+
+![Crowd Strike](https://solutionsreview.com/endpoint-security/files/2019/03/crowdstrike-modified.jpg)
+
+CrowdStrike is a leader in cloud-delivered, next-generation services for endpoint protection, threat intelligence, and response. The CrowdStrike Falcon platform stops breaches by preventing and responding to all types of attacks—both malware and malware-free. The company has revolutionized endpoint protection by combining next-generation anti-virus technology with endpoint detection and response, coupled with a 24/7 managed hunting service, all delivered via the cloud in a single integrated solution. Falcon uses the patented CrowdStrike Threat Graph™ to analyze and correlate billions of events in real time, providing complete protection and five-second visibility across all endpoints. CrowdStrike Falcon is currently deployed in more than 170 countries. 
+
+- EndPoint Protection[here](https://www.crunchbase.com/organization/crowdstrike)
+- Case Study [here](https://aws.amazon.com/solutions/case-studies/crowdstrike/)
+
+
+
+
+
 <br />
 <br />
 <br />
