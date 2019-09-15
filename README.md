@@ -658,18 +658,50 @@ The Google Compute Engine Rightsizing Recommender helps you choose the optimal v
 | Misconceptions | [DevSecOps Misconceptions](#DEVSECOPS-MISCONCEPTIONS)  |
 | Scaling | [DEVSECOPS at Scale](#DEVOPS-AT-SCALE)  |
 
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 ## DEVSECOPS OVERVIEW
 
+DevSecOps is the philosophy of integrating security practices within the DevOps process. DevSecOps involves creating a 'Security as Code' culture with ongoing, flexible collaboration between release engineers and security teams.
+
+
 ![DEVSECOPS IMAGE](IMAGES/DS1.png)
+
+<br />
+<br />
+<br />
+<br />
+
+
 
 ## DEVSECOPS MISCONCEPTIONS
 
 
 ![DEVSECOPS IMAGE](IMAGES/DS2.png)
 
+<br />
+<br />
+<br />
+<br />
+
+
+
 ## DEVOPS AT SCALE
 ![DEVSECOPS IMAGE](IMAGES/DS3.png)
+
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
 
 # COMPLIANCE 
 
