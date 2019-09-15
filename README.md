@@ -13,7 +13,7 @@
 | CHAPTER 2  | [Cyber Tools](#CYBER-TOOLS)  |
 | CHAPTER 3  | [Knowledge Resources](#KNOWLEDGE-RESOURCES)  |
 | CHAPTER 4   | [Next-Gen Cyber Intelligence](#NEXT-GEN-INTELLIGENT-INTELLIGENCE)  |
-| CHAPTER 5   | [DevSecOps](#NEXT-GEN-INTELLIGENT-INTELLIGENCE)  |
+| CHAPTER 5   | [DevSecOps](#DevSecOps)  |
 | CHAPTER 6   | [Compliance Frameworks](#COMPLIANCE)  |
 
 
@@ -636,6 +636,25 @@ Recommenders automatically analyze usage patterns to help determine if resources
 With the **Cloud Identity and Access Management (Cloud IAM) Recommender**, you can automatically detect weak access policies and adjust them based on the access patterns of similar users in your organization. This is a follow up to the Alpha launch at Cloud Next this past April.
 
 The Google Compute Engine Rightsizing Recommender helps you choose the optimal virtual machine size for your workload. Our experience working with customers shows that they often initially provision machines that are too small or too large.
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+
+
+# DEVSECOPS 
+
+
+### [JUMP TO TOP](#NAVIGATION) 
+
+| Topic | Quick Jump |
+| ------------- | ------------- |
+| CSA STAR  | [Cloud Auditing](#CSA-STAR)  |
+
 
 
 # COMPLIANCE 
