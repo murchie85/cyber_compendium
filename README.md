@@ -569,10 +569,10 @@ The Google Compute Engine Rightsizing Recommender helps you choose the optimal v
 
 | Topic | Quick Jump |
 | ------------- | ------------- |
-| CSA STAR  | [CLOUD AUDITING](#CSA-STAR)  |
-| ISO 27001 | [POLICY AUDITING](#AISO-27001)  |
+| CSA STAR  | [Cloud Auditing](#CSA-STAR)  |
+| ISO 27001 | [Policy Auditing](#AISO-27001)  |
 | Leidos   | [Accredited Testing](#LEIDOS)  |
-| PCI 3.2   | [Data Security Standard](#PCI-3.2)  |
+| PCI 3.2   | [Data Security Standard](#PCI-DSS)  |
 | PCI HIPAA   | [HIPAA](#PCI-HIPAA)  |
 
 <br />
@@ -663,7 +663,8 @@ The Leidos Accredited Testing & Evaluation Laboratory is comprised of two indust
 <br />
 <br />
 
-## PCI 3.2
+## PCI DSS
+### PCI 3.2
 
 The Payment Card Industry Security Standards Council (PCI SSC) has published a
 new version of the industry standard that businesses use to safeguard payment data
