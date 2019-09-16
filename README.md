@@ -219,6 +219,7 @@ OSINT differs largely from the other frameworks, in that it is primarily a hacke
 | Hack the Box   | [HTB](#Hack-The-Box)  |
 | Pwned  | [PWNED](#PWNED-PASSWORDS)  |
 | Threat Crowd  | [Threat-Crowd](#Threat-Crowd)  |
+| Cybercrime Feeds  | [Cybercrime Feeds](#Cybercrime-Feeds)  |
 
 <br />
 <br />
@@ -304,7 +305,7 @@ CrowdStrike is a leader in cloud-delivered, next-generation services for endpoin
 
 - Wiki Site [here](https://github.com/BloodHoundAD/Bloodhound/wiki)
 
-
+- [The Dog Whisperer’s Handbook](https://insinuator.net/2018/11/the-dog-whisperers-handbook/)
   
 <br />
 <br />
@@ -360,6 +361,24 @@ ThreatCrowd is a system for finding and researching artefacts relating to cyber 
 <br />
 <br />
 <br />
+
+# Cybercrime Feeds
+
+![Cybercrime image](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjEg8rYndbkAhXD2eAKHbGWCqwQjRx6BAgBEAQ&url=http%3A%2F%2Fiplists.firehol.org%2F&psig=AOvVaw334ynMeqAXt-s9FoCfLAtS&ust=1568753862911768)
+
+This site analyses all available security IP Feeds, mainly related to on-line **attacks**, on-line service **abuse**, **malwares**, **botnets**, **command and control** servers and other cybercrime activities.
+
+
+This IP list is a composition of other IP lists.
+**The objective is to create a blacklist that can be safe enough to be used on all systems, with a firewall, to block access entirely, from and to its listed IPs.**
+The key prerequisite for this cause, is to have no false positives. All IPs listed should be bad and should be blocked, without exceptions.
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
   
 # KNOWLEDGE RESOURCES 
   
@@ -370,6 +389,8 @@ ThreatCrowd is a system for finding and researching artefacts relating to cyber 
 | Signature Wrapping  | [SIGNATURE WRAPPING ATTACK](#SIGNATURE-WRAPPING-ATTACK)  |
 | AWESOME PENTEST  | [AWESOME PENTEST](#AWESOME-PENTEST)  |
 | How to NMAP   | [MAPPING PORTS](#HOW-TO-NMAP)  |
+| Intelligence Feeds   | [Open Source Threat Intelligence Feeds](#Open-Source-Threat-Intelligence-Feeds)  |
+
 
 <br />
 <br />
@@ -397,6 +418,11 @@ ThreatCrowd is a system for finding and researching artefacts relating to cyber 
   
 
 ## AWESOME PENTEST
+
+A collection of awesome penetration testing resources.
+
+Penetration testing is the practice of launching authorized, simulated attacks against computer systems and their physical infrastructure to expose potential security weaknesses and vulnerabilities.
+
     
 - AWESOME-PENTEST  [PENTEST](https://github.com/enaqx/awesome-pentest)
 
@@ -407,7 +433,11 @@ ThreatCrowd is a system for finding and researching artefacts relating to cyber 
   
 - NMAP How to [NMAP](https://hackertarget.com/nmap-tutorial/)
 
+## Open Source Threat Intelligence Feeds
 
+The following list of open source threat intelligence feeds is maintained for the participants of the Operator’s Security Toolkit program. It provides a list of the resources, activities, groups, and organizations. The links and data can be used in many ways. The most obvious is to “check the credibility” of any security vendor that claims “special security data” and then offer it to the Operator at a special price. We have found cases where people have taken open source community data provided for the best interest of the Internet and then sold it to governments who paid a huge sum. This resource is one tool to prevent this type of abuse. 
+
+- [source](https://www.senki.org/operators-security-toolkit/open-source-threat-intelligence-feeds/)
 
 
 <br />
