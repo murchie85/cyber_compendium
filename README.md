@@ -390,7 +390,7 @@ The key prerequisite for this cause, is to have no false positives. All IPs list
 | AWESOME PENTEST  | [AWESOME PENTEST](#AWESOME-PENTEST)  |
 | How to NMAP   | [MAPPING PORTS](#HOW-TO-NMAP)  |
 | Intelligence Feeds   | [Open Source Threat Intelligence Feeds](#Open-Source-Threat-Intelligence-Feeds)  |
-
+| zero trust security model  | [Google BeyondCorp](#BeyondCorp)  |
 
 <br />
 <br />
@@ -416,6 +416,8 @@ The key prerequisite for this cause, is to have no false positives. All IPs list
 ## SIGNATURE WRAPPING ATTACK
 - Signature Wrapping [Here](https://www.ws-attacks.org/XML_Signature_Wrapping) 
   
+<br />
+<br />
 
 ## AWESOME PENTEST
 
@@ -426,18 +428,33 @@ Penetration testing is the practice of launching authorized, simulated attacks a
     
 - AWESOME-PENTEST  [PENTEST](https://github.com/enaqx/awesome-pentest)
 
-  
+<br />
+<br />
+
+
 ## HOW TO NMAP
   
 
   
 - NMAP How to [NMAP](https://hackertarget.com/nmap-tutorial/)
 
+<br />
+<br />
+
 ## Open Source Threat Intelligence Feeds
 
 The following list of open source threat intelligence feeds is maintained for the participants of the Operator’s Security Toolkit program. It provides a list of the resources, activities, groups, and organizations. The links and data can be used in many ways. The most obvious is to “check the credibility” of any security vendor that claims “special security data” and then offer it to the Operator at a special price. We have found cases where people have taken open source community data provided for the best interest of the Internet and then sold it to governments who paid a huge sum. This resource is one tool to prevent this type of abuse. 
 
 - [source](https://www.senki.org/operators-security-toolkit/open-source-threat-intelligence-feeds/)
+
+<br />
+<br />
+
+## BeyondCorp
+
+BeyondCorp is Google's implementation of the zero trust security model that builds upon eight years of building zero trust networks at Google, combined with ideas and best practices from the community. By shifting access controls from the network perimeter to individual users and devices, BeyondCorp allows employees, contractors, and other users to work more securely from virtually any location without the need for a traditional VPN.
+
+- [source](https://cloud.google.com/beyondcorp/#researchPapers)
 
 
 <br />
