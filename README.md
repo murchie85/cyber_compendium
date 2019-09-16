@@ -43,17 +43,23 @@
 | Zero Trust Security  | [ZEROTRUST](#Zero-Trust-Security)  |
 | OSINT  | [OSINT](#Open-Source-Intelligence)  |
 | **CHAPTER 2**  | [Cyber Tools](#CYBER-TOOLS)  |
-| AWS Guard​Duty   | [Guard​Duty](#Guard​Duty)  |
+| AWS Guard​Duty   | [Guard​Duty](#Guard-Duty)  |
 | Crowd Strike   | [Crowd Strike](#Crowd-Strike)  |
-| Hack the Box   | [HTB](#Hack-The-Box)  |
 | ThreatConnect  | [ThreatConnect](#ThreatConnect)  |
 | Bloodhound  | [Bloodhound](#Bloodhound)  |
 | MISP  | [MISP](#MISP)  |
 | Cyber Chef  | [Cyber Chef](#Cyber-Chef)  |
+| **OPEN SOURCE** | **FREE-EASY** |
+| Hack the Box   | [HTB](#Hack-The-Box)  |
+| Pwned  | [PWNED](#PWNED-PASSWORDS)  |
+| Threat Crowd  | [Threat-Crowd](#Threat-Crowd)  |
+| Cybercrime Feeds  | [Cybercrime Feeds](#Cybercrime-Feeds)  |
 | **CHAPTER 3**  | [Knowledge Resources](#KNOWLEDGE-RESOURCES)  |
 | Signature Wrapping  | [SIGNATURE WRAPPING ATTACK](#SIGNATURE-WRAPPING-ATTACK)  |
 | AWESOME PENTEST  | [AWESOME PENTEST](#AWESOME-PENTEST)  |
 | How to NMAP   | [MAPPING PORTS](#HOW-TO-NMAP)  |
+| Intelligence Feeds   | [Open Source Threat Intelligence Feeds](#Open-Source-Threat-Intelligence-Feeds)  |
+| zero trust security model  | [Google BeyondCorp](#BeyondCorp)  |
 | **CHAPTER 4**   | [Next-Gen Cyber Intelligence](#NEXT-GEN-INTELLIGENT-INTELLIGENCE)  |
 | AI FOR OFFENCE | [DARKTRACE WHITEPAPER](#DARKTRACE-WHITEPAPER)  |
 |   | [NEURALNET INJECTION](#ML-INJECTION )  |
@@ -63,7 +69,10 @@
 |  | [BEST PRACTICES](#BEST-PRACTICES)  |
 |   | [ROBUST AI FRAUD ARCHITECTURES](#ROBUST-AI-FRAUD-ARCHITECTURES)  |
 |  | [Dynamic GCP ](#GCP-RECOMMENDATIONS)  |
-| CHAPTER 5   | [DevSecOps](#NEXT-GEN-INTELLIGENT-INTELLIGENCE)  |
+| CHAPTER 5   | [DevSecOps](#DevSecOps)  |
+| Intro | [DevSecOps Overview](#DEVSECOPS-OVERVIEW)  |
+| Misconceptions | [DevSecOps Misconceptions](#DEVSECOPS-MISCONCEPTIONS)  |
+| Scaling | [DEVSECOPS at Scale](#DEVOPS-AT-SCALE)  |
 | CHAPTER 6   | [Compliance Frameworks](#COMPLIANCE)  |
 | CSA STAR  | [Cloud Auditing](#CSA-STAR)  |
 | ISO 27001 | [Policy Auditing](#AISO-27001)  |
