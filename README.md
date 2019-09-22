@@ -182,7 +182,9 @@ In a Zero Trust model, you cannot trust anything in or out of your network: crea
 **Implementations** 
 
 - [Zscaler](https://www.zscaler.com/mission-possible-zero-trust-security)
-- [Gitlab](https://about.gitlab.com/2019/08/09/zero-trust-at-gitlab-problems-goals-challenges/)
+- [Gitlab main](https://about.gitlab.com/2019/08/21/zero-trust-at-gitlab-the-data-classification-and-infrastructure-challenge/)
+- [Gitlab 1](https://about.gitlab.com/2019/04/01/evolution-of-zero-trust/)
+- [Gitlab 2](https://about.gitlab.com/2019/08/09/zero-trust-at-gitlab-problems-goals-challenges/)
 - [Cisco](https://www.cisco.com/c/en/us/products/security/zero-trust.html)
 - [Akami](https://www.akamai.com/uk/en/solutions/security/zero-trust-security-model.jsp)
 - [Symantec](https://www.symantec.com/en/uk/solutions/zero-trust-ecosystem)
