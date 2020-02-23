@@ -398,6 +398,7 @@ The key prerequisite for this cause, is to have no false positives. All IPs list
 
 | Topic | Quick Jump |
 | ------------- | ------------- |
+| ACTIVE DIRECTORY SECURITY ASSESSMENT  | [LINKEDIN DOC](#ACTIVE-DIRECTORY-SECURITY-ASSESSMENT)
 | Signature Wrapping  | [SIGNATURE WRAPPING ATTACK](#SIGNATURE-WRAPPING-ATTACK)  |
 | AWESOME PENTEST  | [AWESOME PENTEST](#AWESOME-PENTEST)  |
 | How to NMAP   | [MAPPING PORTS](#HOW-TO-NMAP)  |
@@ -423,6 +424,17 @@ The key prerequisite for this cause, is to have no false positives. All IPs list
 <br />
 <br />
 <br />
+
+## ACTIVE DIRECTORY SECURITY ASSESSMENT 
+
+- FULL TUTORIAL [AD](https://www.linkedin.com/posts/the-cyber-security-hub_active-directory-security-assessment-adsa-ugcPost-6637332733641261056-_vkQ/?fbclid=IwAR3l5GGu4iAdIDP7YEYnQ9xdLJShAmIvWUblDsVn3rK-sx4hJ3u2zBj0anQ)
+
+
+<br />
+<br />
+<br />
+<br />
+
 
 
 ## SIGNATURE WRAPPING ATTACK
