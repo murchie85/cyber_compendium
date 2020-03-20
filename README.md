@@ -172,8 +172,7 @@ Short for “penetration testing,” this practice is a means of evaluating secu
 20. **Clickjacking**
 A hacking attack that tricks victims into clicking on an unintended link or button, usually disguised as a harmless element.
 
-
-
+ Information sourced from the great article by Devon Milkovich [here](https://www.cybintsolutions.com/20-cyber-security-terms-that-you-should-know/)
 
 <br />
 <br />
