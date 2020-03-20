@@ -110,9 +110,9 @@
  This CyberCompendium is a living breathing document and is changing overtime; you can feel free to fork or make update requests if changes, errors or omissions are spotted. In this section we will cover some basics of cyber security. 
 
  - [Terminology](#Terminology)
- - [CVE Cybersecurity Vulnerabilities and Exposures](CVE-Cybersecurity-Vulnerabilities-and-Exposures)
+ - [CVECybersecurity Vulnerabilities and Exposures](#CVE-Cybersecurity-Vulnerabilities-and-Exposures)
   
-  
+
 <br />
 <br />
 <br />
