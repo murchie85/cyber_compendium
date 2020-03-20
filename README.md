@@ -126,68 +126,51 @@ A tool that allows the user to remain anonymous while using the internet by mask
 5. IP Address
 An internet version of a home address for your computer, which is identified when it communicates over a network; For example, connecting to the internet (a network of networks).
 
-cyber security terms computer exploit
 6. Exploit
 A malicious application or script that can be used to take advantage of a computer’s vulnerability.
 
-cyber security terms data breach
 7. Breach
 The moment a hacker successfully exploits a vulnerability in a computer or device, and gains access to its files and network.
 
-cyber security terms firewall
 8. Firewall
 A defensive technology designed to keep the bad guys out. Firewalls can be hardware or software-based.
 
-cyber security malware
 9. Malware “the bad guy”
 An umbrella term that describes all forms of malicious software designed to wreak havoc on a computer. Common forms include: viruses, trojans, worms and ransomware.
 
-cyber security terms virus
 10. Virus
 A type of malware aimed to corrupt, erase or modify information on a computer before spreading to others. However, in more recent years, viruses like Stuxnet have caused physical damage.
 
- wannacry ransomware
 11. Ransomware
 A form of malware that deliberately prevents you from accessing files on your computer – holding your data hostage. It will typically encrypt files and request that a ransom be paid in order to have them decrypted or recovered. For example, WannaCry Ransomware. For more information on Ransomware, check out our free Ransomware Guide.
 
- trojan virus
 12. Trojan horse
 A piece of malware that often allows a hacker to gain remote access to a computer through a “back door”.
 
- terms computer worm
 13. Worm
 A piece of malware that can replicate itself in order to spread the infection to other connected computers.
 
-RELATED:  How to Find out if You’re Affected by the Equifax Hack
-cyber security terms botnet
 14. Bot/Botnet
 A type of software application or script that performs tasks on command, allowing an attacker to take complete control remotely of an affected computer. A collection of these infected computers is known as a “botnet” and is controlled by the hacker or “bot-herder”.
 
-cyber security terms botnet DDoS attack
 15. DDoS
 An acronym that stands for distributed denial of service – a form of cyber attack. This attack aims to make a service such as a website unusable by “flooding” it with malicious traffic or data from multiple sources (often botnets).
 
-cyber security terms spear phishing
 16. Phishing or Spear Phishing
 A technique used by hackers to obtain sensitive information. For example, using hand-crafted email messages designed to trick people into divulging personal or confidential data such as passwords and bank account information.
 
-cyber security terms encryption
 17. Encryption
 The process of encoding data to prevent theft by ensuring the data can only be accessed with a key.
 
-BYOD bring your own device
 18. BYOD (Bring Your Own Device)
 Refers to a company security policy that allows for employees’ personal devices to be used in business. A BYOD policy sets limitations and restrictions on whether or not a personal phone or laptop can be connected over the corporate network.
 
-cyber security terms pentesting
 19. Pen-testing
 Short for “penetration testing,” this practice is a means of evaluating security using hacker tools and techniques with the aim of discovering vulnerabilities and evaluating security flaws.
 
-cyber security terms clickjacking
 20. Clickjacking
 A hacking attack that tricks victims into clicking on an unintended link or button, usually disguised as a harmless element.
 
-We’ve only covered the tip of the iceberg as far as cyber security terms, but this will get you started. Take the steps now to ensure that you and your business are protected – knowledge is power! Check back with Cybint Solutions for any follow up tips and advice by signing up for our mailing list below.
 
 
 
