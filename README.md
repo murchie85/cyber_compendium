@@ -6,7 +6,7 @@
 <br />	
 <br />
 
-[Detailed Content Breakdown ](#FULL-CONTENTS) 
+- [Detailed Content Breakdown ](#FULL-CONTENTS) 
 <br />	
 <br />
 
@@ -114,20 +114,15 @@
 1. Cloud
 A technology that allows us to access our files and/or services through the internet from anywhere in the world. Technically speaking, it’s a collection of computers with large storage capabilities that remotely serve requests.
 
-cyber security terms software
 2. Software
 A set of programs that tell a computer to perform a task. These instructions are compiled into a package that users can install and use. For example, Microsoft Office is an application software.
 
-cyber security domain
 3. Domain
 A group of computers, printers and devices that are interconnected and governed as a whole. For example, your computer is usually part of a domain at your workplace.
 
-RELATED:  Protect Your Firm and Your Clients From Ransomware
-cyber security terms VPN
 4. Virtual Private Network (VPN)
 A tool that allows the user to remain anonymous while using the internet by masking the location and encrypting traffic.
 
-cyber security terms IP address
 5. IP Address
 An internet version of a home address for your computer, which is identified when it communicates over a network; For example, connecting to the internet (a network of networks).
 
