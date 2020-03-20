@@ -142,34 +142,34 @@ An umbrella term that describes all forms of malicious software designed to wrea
 10. **Virus**
 A type of malware aimed to corrupt, erase or modify information on a computer before spreading to others. However, in more recent years, viruses like Stuxnet have caused physical damage.
 
-11. Ransomware
+11. **Ransomware**
 A form of malware that deliberately prevents you from accessing files on your computer – holding your data hostage. It will typically encrypt files and request that a ransom be paid in order to have them decrypted or recovered. For example, WannaCry Ransomware. For more information on Ransomware, check out our free Ransomware Guide.
 
-12. Trojan horse
+12. **Trojan horse**
 A piece of malware that often allows a hacker to gain remote access to a computer through a “back door”.
 
-13. Worm
+13. **Worm**
 A piece of malware that can replicate itself in order to spread the infection to other connected computers.
 
-14. Bot/Botnet
+14. **Bot/Botnet**
 A type of software application or script that performs tasks on command, allowing an attacker to take complete control remotely of an affected computer. A collection of these infected computers is known as a “botnet” and is controlled by the hacker or “bot-herder”.
 
-15. DDoS
+15. **DDoS**
 An acronym that stands for distributed denial of service – a form of cyber attack. This attack aims to make a service such as a website unusable by “flooding” it with malicious traffic or data from multiple sources (often botnets).
 
-16. Phishing or Spear Phishing
+16. **Phishing or Spear Phishing**
 A technique used by hackers to obtain sensitive information. For example, using hand-crafted email messages designed to trick people into divulging personal or confidential data such as passwords and bank account information.
 
-17. Encryption
+17. **Encryption**
 The process of encoding data to prevent theft by ensuring the data can only be accessed with a key.
 
-18. BYOD (Bring Your Own Device)
+18. **BYOD (Bring Your Own Device)**
 Refers to a company security policy that allows for employees’ personal devices to be used in business. A BYOD policy sets limitations and restrictions on whether or not a personal phone or laptop can be connected over the corporate network.
 
-19. Pen-testing
+19. **Pen-testing**
 Short for “penetration testing,” this practice is a means of evaluating security using hacker tools and techniques with the aim of discovering vulnerabilities and evaluating security flaws.
 
-20. Clickjacking
+20. **Clickjacking**
 A hacking attack that tricks victims into clicking on an unintended link or button, usually disguised as a harmless element.
 
 
