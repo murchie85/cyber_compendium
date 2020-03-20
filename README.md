@@ -109,6 +109,15 @@
 
  This CyberCompendium is a living breathing document and is changing overtime; you can feel free to fork or make update requests if changes, errors or omissions are spotted. In this section we will cover some basics of cyber security. 
 
+ - [Terminology](#Terminology)
+ - [CVE Cybersecurity Vulnerabilities and Exposures](CVE-Cybersecurity-Vulnerabilities-and-Exposures)
+  
+  
+<br />
+<br />
+<br />
+<br />
+
 ## Terminology 
 
 
@@ -178,7 +187,7 @@ A hacking attack that tricks victims into clicking on an unintended link or butt
 
 ![CVE](IMAGES/CVE.png)
   
-   
+
 CVE is a dictionary that provides definitions for publicly disclosed cybersecurity vulnerabilities and exposures. The goal of CVE is to make it easier to share data across separate vulnerability capabilities (tools, databases, and services) with these definitions. CVE Entries are comprised of an identification number, a description, and at least one public reference. [CVE HOME](https://cve.mitre.org/about/faqs.html#what_is_cve)
 
 
