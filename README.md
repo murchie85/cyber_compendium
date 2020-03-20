@@ -188,9 +188,10 @@ A hacking attack that tricks victims into clicking on an unintended link or butt
 ![CVE](IMAGES/CVE.png)
   
 
-CVE is a dictionary that provides definitions for publicly disclosed cybersecurity vulnerabilities and exposures. The goal of CVE is to make it easier to share data across separate vulnerability capabilities (tools, databases, and services) with these definitions. CVE Entries are comprised of an identification number, a description, and at least one public reference. [CVE HOME](https://cve.mitre.org/about/faqs.html#what_is_cve)
-
-
+CVE is a dictionary that provides definitions for publicly disclosed cybersecurity vulnerabilities and exposures. The goal of CVE is to make it easier to share data across separate vulnerability capabilities (tools, databases, and services) with these definitions. CVE Entries are comprised of an identification number, a description, and at least one public reference.   
+[CVE HOME](https://cve.mitre.org/about/faqs.html#what_is_cve)
+[CVE origins from here](https://nvd.nist.gov/vuln/search)
+[A good compendium for all CVEs here](https://www.cvedetails.com/)
 
 <br />
 <br />
