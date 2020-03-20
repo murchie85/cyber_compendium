@@ -111,34 +111,35 @@
 
 ## Terminology 
 
-1. Cloud
+
+1. **Cloud**
 A technology that allows us to access our files and/or services through the internet from anywhere in the world. Technically speaking, it’s a collection of computers with large storage capabilities that remotely serve requests.
 
-2. Software
+2. **Software**
 A set of programs that tell a computer to perform a task. These instructions are compiled into a package that users can install and use. For example, Microsoft Office is an application software.
 
-3. Domain
+3. **Domain**
 A group of computers, printers and devices that are interconnected and governed as a whole. For example, your computer is usually part of a domain at your workplace.
 
-4. Virtual Private Network (VPN)
+4. **Virtual Private Network (VPN)**
 A tool that allows the user to remain anonymous while using the internet by masking the location and encrypting traffic.
 
-5. IP Address
+5. **IP Address**
 An internet version of a home address for your computer, which is identified when it communicates over a network; For example, connecting to the internet (a network of networks).
 
-6. Exploit
+6. **Exploit**
 A malicious application or script that can be used to take advantage of a computer’s vulnerability.
 
-7. Breach
+7. **Breach**
 The moment a hacker successfully exploits a vulnerability in a computer or device, and gains access to its files and network.
 
-8. Firewall
+8. **Firewall**
 A defensive technology designed to keep the bad guys out. Firewalls can be hardware or software-based.
 
-9. Malware “the bad guy”
+9. **Malware “the bad guy”**
 An umbrella term that describes all forms of malicious software designed to wreak havoc on a computer. Common forms include: viruses, trojans, worms and ransomware.
 
-10. Virus
+10. **Virus**
 A type of malware aimed to corrupt, erase or modify information on a computer before spreading to others. However, in more recent years, viruses like Stuxnet have caused physical damage.
 
 11. Ransomware
