@@ -107,6 +107,10 @@
 
 # INTRODUCTION 
 
+This CyberCompendium can be treated as a quick-ref guide for anyone wanting to build their knowledge of cyber security, tools, popular frameworks and more.  
+
+
+## SIDE NOTE 
  This CyberCompendium is a living breathing document and is changing overtime; you can feel free to fork or make update requests if changes, errors or omissions are spotted. In this section we will cover some basics of cyber security. 
 
  - [Terminology](#Terminology)
